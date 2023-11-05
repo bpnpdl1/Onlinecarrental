@@ -5,8 +5,8 @@ function pdo()
 {
     $dbhost = "localhost"; // 127.0.0.1
     $dbname = " bpnpdlme_cars";
-    $dbuser = "root";
-    $dbpass = "";
+    $dbuser = "bpnpdlme_bpnpdl";
+    $dbpass = "Bipin@12345";
 
     $options = [
         PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC
