@@ -17,7 +17,7 @@ include "header.php";
 
 
 
-<h2 class="mt-5 text-center">FIND THE RIGHT CAR FOR YOU.</h2>
+<h2 class="mt-5 text-center">FIND THE Best CAR FOR YOU.</h2>
 
 <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
 
