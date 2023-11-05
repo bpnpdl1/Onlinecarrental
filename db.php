@@ -4,7 +4,7 @@ session_start();
 function pdo()
 {
     $dbhost = "localhost"; // 127.0.0.1
-    $dbname = "cars";
+    $dbname = " bpnpdlme_cars";
     $dbuser = "root";
     $dbpass = "";
 
